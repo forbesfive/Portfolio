@@ -1,0 +1,53 @@
+body {
+    background-color:  #f4f4f4;
+    color: #555;
+    font: normal 16px Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.container  {
+    width: 80%;
+    margin: auto;    
+}
+
+header, footer {
+    text-align: center;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+}
+
+/* HERO SECTION */
+
+.carousel {
+    width: 50%;
+    margin: auto;;
+}
+
+/* SKILLS SECTION */
+
+.skills-list ul {
+    padding-left: 30px;
+    list-style: none;
+    list-style-image: url('../images/folder.png');
+}
+
+/* CONTACT ME SECTION */
+
+.contact-form label {
+    display: block;
+}
+
+.contact-form .form-group {
+    padding-bottom: 15px;
+}
+
+.contact-form input[type="text"], .contact-form textarea {
+    padding: 8px;
+    width: 100%;p;
+}
+
+/* table {
+    padding-bottom: 20px;
+} */
