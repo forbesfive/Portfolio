@@ -1,4 +1,4 @@
 Created 15/12/2023
 
-gh pages
+GitHub Pages
 https://forbesfive.github.io/Portfolio/
